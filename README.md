@@ -26,7 +26,7 @@ VR의 한계점과 페이셜을 사용하려면 추가 부품 구매 등의 불�
 - **확장성**: 프로젝트 이용자의 용도에 따라 더 많은 기능을 추가할 수 있습니다!
 
 &nbsp;
-## 작동 작품
+## 사용 사례
 ##### 유봄냥 방송 1주년 기념 봄니티 (https://youtu.be/zq670xt7Qjw?si=A1qmPcl52wVcc4Gi)
 [![BomNyang_dasibogi_2024-06-09_12-17-16](https://github.com/Hanbyori/VLS/assets/20338405/37fcd5e6-7d1d-4d8d-939c-44773ee45ecc)](https://youtu.be/zq670xt7Qjw?si=A1qmPcl52wVcc4Gi)
 
