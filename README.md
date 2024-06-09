@@ -1,5 +1,5 @@
 # VLS (Virtual Live Streaming System)
-![Image Sequence_001_0000](https://github.com/Hanbyori/VLS/assets/20338405/266501d3-d9a8-4bf2-888d-a537a51777d7)
+![1](https://i.imgur.com/usIGorx.png)
 
 다수의 유저가 한 세션에 접속해서 함께 버추얼 방송을 할 수 있는 프로젝트입니다.<br>
 해당 리포지토리는 소개의 일환으로 **프로젝트는 공유하지 않습니다.**
@@ -29,17 +29,17 @@ VR의 한계점과 페이셜을 사용하려면 추가 부품 구매 등의 불�
 &nbsp;
 ## 사용 사례
 ##### 유봄냥 방송 1주년 기념 봄니티 (https://youtu.be/zq670xt7Qjw?si=A1qmPcl52wVcc4Gi)
-[![BomNyang_dasibogi_2024-06-09_12-17-16](https://github.com/Hanbyori/VLS/assets/20338405/37fcd5e6-7d1d-4d8d-939c-44773ee45ecc)](https://youtu.be/zq670xt7Qjw?si=A1qmPcl52wVcc4Gi)
+![2](https://i.imgur.com/abLjAYG.png)
 
 ---
 
 ##### 단츄 발렌타인 기념 단니티 (https://vod.afreecatv.com/player/116208033)
-[![hanbyori_2024-06-09_12-30-25](https://github.com/Hanbyori/VLS/assets/20338405/abdf9898-9b1c-4a0b-99f2-33709607702e)](https://vod.afreecatv.com/player/116208033)
+![3](https://i.imgur.com/QaDmjto.png)
 
 ---
 
 ##### 단츄 ASMR (https://vod.afreecatv.com/player/117234827)
-[![hanbyori_2024-06-09_12-34-55](https://github.com/Hanbyori/VLS/assets/20338405/77ed82bf-7cb8-48a8-8c6e-8de9fc689eda)](https://vod.afreecatv.com/player/117234827)
+![4](https://i.imgur.com/y4lh7is.png)
 
 ---
 
