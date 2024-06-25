@@ -29,8 +29,9 @@ VR의 한계점과 페이셜을 사용하려면 추가 부품 구매 등의 불�
 &nbsp;
 ## 기본 기능
 <img src="https://github.com/Hanbyori/VLS/assets/20338405/694c4564-34ab-4852-945e-212b4850987c.gif" width="33.3%" height="33.3%"><img src="https://github.com/Hanbyori/VLS/assets/20338405/8f4e0a5a-a081-471b-a83b-2eaeecba13ed.gif" width="33.3%" height="33.3%"><img src="https://github.com/Hanbyori/VLS/assets/20338405/514a613f-3ff6-4def-bd87-6feff362161e.gif" width="33.3%" height="33.3%">
-![gif4](https://github.com/Hanbyori/VLS/assets/20338405/d3cf8e38-98e9-42c1-b26f-73bdccf5043c)![gif5](https://github.com/Hanbyori/VLS/assets/20338405/ea6ae137-afff-4134-839e-0c30f8ca146f)![gif6](https://github.com/Hanbyori/VLS/assets/20338405/38b49129-e581-48dd-8644-095383fbe183)
-![gif7](https://github.com/Hanbyori/VLS/assets/20338405/b5dba14e-a0f6-4c87-b08d-88706bfaa1b8)![gif8](https://github.com/Hanbyori/VLS/assets/20338405/b02510fa-cb9c-4ed0-bbd3-1ce47b2350aa)![gif9](https://github.com/Hanbyori/VLS/assets/20338405/c93d0275-23da-46b6-9b17-e851aa1fb6aa)
+<img src="https://github.com/Hanbyori/VLS/assets/20338405/d3cf8e38-98e9-42c1-b26f-73bdccf5043c.gif" width="33.3%" height="33.3%"><img src="https://github.com/Hanbyori/VLS/assets/20338405/ea6ae137-afff-4134-839e-0c30f8ca146f.gif" width="33.3%" height="33.3%"><img src="https://github.com/Hanbyori/VLS/assets/20338405/38b49129-e581-48dd-8644-095383fbe183.gif" width="33.3%" height="33.3%">
+<img src="https://github.com/Hanbyori/VLS/assets/20338405/b5dba14e-a0f6-4c87-b08d-88706bfaa1b8.gif" width="33.3%" height="33.3%"><img src="https://github.com/Hanbyori/VLS/assets/20338405/b02510fa-cb9c-4ed0-bbd3-1ce47b2350aa.gif" width="33.3%" height="33.3%"><img src="https://github.com/Hanbyori/VLS/assets/20338405/c93d0275-23da-46b6-9b17-e851aa1fb6aa.gif" width="33.3%" height="33.3%">
+
 &nbsp;
 ## 사용 사례
 ##### 유봄냥 방송 1주년 기념 봄니티 (https://youtu.be/zq670xt7Qjw?si=A1qmPcl52wVcc4Gi)
