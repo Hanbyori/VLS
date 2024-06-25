@@ -1,5 +1,5 @@
 # VLS (Virtual Live Streaming System)
-[![1](https://i.imgur.com/usIGorx.png)](https://github.com/Hanbyori/VLS)
+<img src="./PNG/main.png">
 
 다수의 유저가 한 세션에 접속해서 함께 버추얼 방송을 할 수 있는 프로젝트입니다.<br>
 해당 리포지토리는 소개의 일환으로 **프로젝트는 공유하지 않습니다.**
@@ -28,24 +28,24 @@ VR의 한계점과 페이셜을 사용하려면 추가 부품 구매 등의 불�
 
 &nbsp;
 ## 기본 기능
-<img src="https://github.com/Hanbyori/VLS/assets/20338405/694c4564-34ab-4852-945e-212b4850987c.gif" width="33.3%" height="33.3%"><img src="https://github.com/Hanbyori/VLS/assets/20338405/8f4e0a5a-a081-471b-a83b-2eaeecba13ed.gif" width="33.3%" height="33.3%"><img src="https://github.com/Hanbyori/VLS/assets/20338405/514a613f-3ff6-4def-bd87-6feff362161e.gif" width="33.3%" height="33.3%">
-<img src="https://github.com/Hanbyori/VLS/assets/20338405/d3cf8e38-98e9-42c1-b26f-73bdccf5043c.gif" width="33.3%" height="33.3%"><img src="https://github.com/Hanbyori/VLS/assets/20338405/ea6ae137-afff-4134-839e-0c30f8ca146f.gif" width="33.3%" height="33.3%"><img src="https://github.com/Hanbyori/VLS/assets/20338405/38b49129-e581-48dd-8644-095383fbe183.gif" width="33.3%" height="33.3%">
-<img src="https://github.com/Hanbyori/VLS/assets/20338405/b5dba14e-a0f6-4c87-b08d-88706bfaa1b8.gif" width="33.3%" height="33.3%"><img src="https://github.com/Hanbyori/VLS/assets/20338405/b02510fa-cb9c-4ed0-bbd3-1ce47b2350aa.gif" width="33.3%" height="33.3%"><img src="https://github.com/Hanbyori/VLS/assets/20338405/c93d0275-23da-46b6-9b17-e851aa1fb6aa.gif" width="33.3%" height="33.3%">
+<img src="./GIF/1.gif" width="33.3%" height="33.3%"><img src="./GIF/2.gif" width="33.3%" height="33.3%"><img src="./GIF/3.gif" width="33.3%" height="33.3%">
+<img src="./GIF/4.gif" width="33.3%" height="33.3%"><img src="./GIF/5.gif" width="33.3%" height="33.3%"><img src="./GIF/6.gif" width="33.3%" height="33.3%">
+<img src="./GIF/7.gif" width="33.3%" height="33.3%"><img src="./GIF/8.gif" width="33.3%" height="33.3%"><img src="./GIF/9.gif" width="33.3%" height="33.3%">
 
 &nbsp;
 ## 사용 사례
 ##### 유봄냥 방송 1주년 기념 봄니티 (https://youtu.be/zq670xt7Qjw?si=A1qmPcl52wVcc4Gi)
-[![2](https://i.imgur.com/abLjAYG.png)](https://youtu.be/zq670xt7Qjw?si=A1qmPcl52wVcc4Gi)
+<a href="https://youtu.be/zq670xt7Qjw?si=A1qmPcl52wVcc4Gi"><img src="./PNG/1.png"></a>
 
 ---
 
 ##### 단츄 발렌타인 기념 단니티 (https://vod.afreecatv.com/player/116208033)
-[![3](https://i.imgur.com/QaDmjto.png)](https://vod.afreecatv.com/player/116208033)
+<a href="https://vod.afreecatv.com/player/116208033"><img src="./PNG/2.png"></a>
 
 ---
 
 ##### 단츄 ASMR (https://vod.afreecatv.com/player/117234827)
-[![4](https://i.imgur.com/y4lh7is.png)](https://vod.afreecatv.com/player/117234827)
+<a href="https://vod.afreecatv.com/player/117234827"><img src="./PNG/3.png"></a>
 
 ---
 
