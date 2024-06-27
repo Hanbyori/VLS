@@ -33,6 +33,10 @@ VR의 한계점과 페이셜을 사용하려면 추가 부품 구매 등의 불�
 <img src="./GIF/7.gif" width="33.3%" height="33.3%"><img src="./GIF/8.gif" width="33.3%" height="33.3%"><img src="./GIF/9.gif" width="33.3%" height="33.3%">
 
 &nbsp;
+## 아키텍처
+<img src="./PNG/Architecture.png">
+
+&nbsp;
 ## 사용 사례
 ##### 유봄냥 방송 1주년 기념 봄니티 (https://youtu.be/zq670xt7Qjw?si=A1qmPcl52wVcc4Gi)
 <a href="https://youtu.be/zq670xt7Qjw?si=A1qmPcl52wVcc4Gi"><img src="./PNG/1.png"></a>
