@@ -34,7 +34,7 @@ VR의 한계점과 페이셜을 사용하려면 추가 부품 구매 등의 불�
 
 &nbsp;
 ## 아키텍처
-<img src="./PNG/Architecture.png">
+<img src="./PNG/Edit.png">
 
 &nbsp;
 ## 사용 사례
